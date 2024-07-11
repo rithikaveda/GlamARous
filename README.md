@@ -10,6 +10,6 @@ Improved customer satisfaction and reduced return rates.<br><br>
 **Technical Concepts Used:**
 Augmented Reality (AR)<br>
 Computer Vision<br>
-Machine Learning (including supervised and reinforcement learning)<br>
+Machine Learning (including supervised and reinforcement learning)<br><br>
 **Implementation:**<br>
 GlamARous uses AR to overlay virtual products onto the user's real-world view through their device's camera. This is combined with machine learning to refine the experience based on user interactions and preferences, ensuring a seamless and engaging shopping experience.
